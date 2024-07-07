@@ -1,19 +1,6 @@
 #include<stdio.h>
 #define MAXLINE 50
 
-int getline(char s[], int lim);
-void reverseline(char s[], char rs[], int lim);
-int main() {
-    int c, j, len;
-    char line[MAXLINE], reversedline[MAXLINE];
-    while((len = getline(line, MAXLINE)) > 0) {
-        reverseline(line, reversedline, len);
-        printf("%s", reversedline);
-    }
-    
-    return 0;
-}
-
 int getline(char s[], int lim) {
     int c, i;
 
@@ -32,4 +19,15 @@ void reverseline(char s[], char rs[], int lim) {
         rs[(lim-1)-j] = s[j];
     }
     rs[lim] = '\0';
+}
+
+int main() {
+    int c, j, len;
+    char line[MAXLINE], reversedline[MAXLINE];
+    while((len = getline(line, MAXLINE)) > 0) {
+        reverseline(line, reversedline, len);
+        printf("%s", reversedline);
+    }
+    
+    return 0;
 }
