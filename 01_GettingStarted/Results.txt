@@ -1,0 +1,5587 @@
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111000000000000111
+m:                               0
+x:                               1
+y:                               0
+p:                              14
+n:                              12
+r:                               1
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111000011111111111111
+m:                 100000000000000
+x:                               0
+y:                               1
+p:                              17
+n:                               4
+r:                 100000000000000
+
+
+
+m:11111111111111111111111111110000
+m:                               0
+x:                               1
+y:                               0
+p:                               3
+n:                               4
+r:                               0
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111110000001111111111
+m:                               0
+x:                               1
+y:                               0
+p:                              15
+n:                               6
+r:                               1
+
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:                               1
+y:                               0
+p:                               4
+n:                               0
+r:                               1
+
+
+
+m:11111111111000000000000000000000
+m:                               1
+x:                               1
+y:                               1
+p:                              20
+n:                              21
+r:                               1
+
+
+
+m:11111111111110000011111111111111
+m:                 100000000000000
+x:                               1
+y:                               1
+p:                              18
+n:                               5
+r:                 100000000000001
+
+
+
+m:11111100000000000000001111111111
+m:                               0
+x:                               0
+y:                               0
+p:                              25
+n:                              16
+r:                               0
+
+
+
+m:11000111111111111111111111111111
+m:                               0
+x:                               0
+y:                               0
+p:                              29
+n:                               3
+r:                               0
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:                               1
+y:                               0
+p:                              22
+n:                               0
+r:                               1
+
+
+
+m:11111111000000000000000000000111
+m:                            1000
+x:                               0
+y:                               1
+p:                              23
+n:                              21
+r:                            1000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11100000111111111111111111111111
+m:       1000000000000000000000000
+x:                               0
+y:                               1
+p:                              28
+n:                               5
+r:       1000000000000000000000000
+
+
+
+m:11111111111000000000000001111111
+m:                        10000000
+x:                               0
+y:                               1
+p:                              20
+n:                              14
+r:                        10000000
+
+
+
+m:11111000000000011111111111111111
+m:                               0
+x:                               1
+y:                               0
+p:                              26
+n:                              10
+r:                               1
+
+
+
+m:11111111111111111100000001111111
+m:                               0
+x:                               1
+y:                               0
+p:                              13
+n:                               7
+r:                               1
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:10000000111111111111111111111111
+m:       1000000000000000000000000
+x:                               1
+y:                               1
+p:                              30
+n:                               7
+r:       1000000000000000000000001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11000000000000111111111111111111
+m:                               0
+x:                               0
+y:                               0
+p:                              29
+n:                              12
+r:                               0
+
+
+
+m:10000000011111111111111111111111
+m:                               0
+x:                              10
+y:                               0
+p:                              30
+n:                               8
+r:                              10
+
+
+
+m:11111111111111111111100001111111
+m:                               0
+x:                              10
+y:                               0
+p:                              10
+n:                               4
+r:                              10
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111110000000000000111111
+m:                               0
+x:                               0
+y:                               0
+p:                              18
+n:                              13
+r:                               0
+
+
+
+m:11111111111111111111111100000001
+m:                             110
+x:                              11
+y:                              11
+p:                               7
+n:                               7
+r:                             111
+
+
+
+m:11100000000000011111111111111111
+m:                               0
+x:                              10
+y:                               0
+p:                              28
+n:                              12
+r:                              10
+
+
+
+m:11111111111111111111111111110000
+m:                               0
+x:                               1
+y:                               0
+p:                               3
+n:                               4
+r:                               0
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111100011111111
+m:                       100000000
+x:                              10
+y:                               1
+p:                              10
+n:                               3
+r:                       100000010
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111100111111
+m:                         1000000
+x:                               1
+y:                               1
+p:                               7
+n:                               2
+r:                         1000001
+
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:                              10
+y:                               1
+p:                              16
+n:                               0
+r:                              10
+
+
+
+m:11111111111111111110000000011111
+m:                               0
+x:                               0
+y:                               0
+p:                              12
+n:                               8
+r:                               0
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:                        11111111
+m:                       100000000
+x:                              10
+y:                               1
+p:                              31
+n:                              24
+r:                       100000010
+
+
+
+m:11100000000001111111111111111111
+m:            10000000000000000000
+x:                               1
+y:                               1
+p:                              28
+n:                              10
+r:            10000000000000000001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:10000000000000000000000000000000
+m:                              10
+x:                              10
+y:                              10
+p:                              30
+n:                              31
+r:                              10
+
+
+
+m:11111111111111111111111000000011
+m:                             100
+x:                              11
+y:                               1
+p:                               8
+n:                               7
+r:                             111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11000000000000001111111111111111
+m:              110000000000000000
+x:                              10
+y:                              11
+p:                              29
+n:                              14
+r:              110000000000000010
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:                              11
+y:                              11
+p:                              26
+n:                               0
+r:                              11
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111100000000000000000000000
+m:                              11
+x:                               0
+y:                              11
+p:                              22
+n:                              23
+r:                              11
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:                             110
+y:                             110
+p:                               4
+n:                               0
+r:                             110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:                       111111111
+m:                    100000000000
+x:                              10
+y:                             100
+p:                              31
+n:                              23
+r:                    100000000010
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111100000000000011111111111111
+m:                1100000000000000
+x:                             101
+y:                              11
+p:                              25
+n:                              12
+r:                1100000000000101
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11100000001111111111111111111111
+m:       1100000000000000000000000
+x:                               1
+y:                             110
+p:                              28
+n:                               7
+r:       1100000000000000000000001
+
+
+
+m:11111111111111111110000111111111
+m:                      1000000000
+x:                               0
+y:                               1
+p:                              12
+n:                               4
+r:                      1000000000
+
+
+
+m:            11111111111111111111
+m:         11100000000000000000000
+x:                               1
+y:                             111
+p:                              31
+n:                              12
+r:         11100000000000000000001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111100000000000000011111111111
+m:                  11000000000000
+x:                              11
+y:                             110
+p:                              25
+n:                              15
+r:                  11000000000011
+
+
+
+m:11111111110011111111111111111111
+m:          1100000000000000000000
+x:                              10
+y:                             111
+p:                              21
+n:                               2
+r:          1100000000000000000010
+
+
+
+m:11111111111111111110000001111111
+m:                      1110000000
+x:                             101
+y:                             111
+p:                              12
+n:                               6
+r:                      1110000101
+
+
+
+m:11111111111111111111110111111111
+m:                               0
+x:                               1
+y:                               0
+p:                               9
+n:                               1
+r:                               1
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111100000001
+m:                            1000
+x:                              11
+y:                             100
+p:                               7
+n:                               7
+r:                            1001
+
+
+
+m:11111111111100000000001111111111
+m:                   1110000000000
+x:                              10
+y:                             111
+p:                              19
+n:                              10
+r:                   1110000000010
+
+
+
+m:11111110000000111111111111111111
+m:                               0
+x:                              10
+y:                               0
+p:                              24
+n:                               7
+r:                              10
+
+
+
+m:11111111111111111111111000111111
+m:                         1000000
+x:                             100
+y:                               1
+p:                               8
+n:                               3
+r:                         1000100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111110000000000000000011111
+m:                         1000000
+x:                               1
+y:                              10
+p:                              21
+n:                              17
+r:                         1000001
+
+
+
+m:11111000000000000000000000000000
+m:                             110
+x:                               0
+y:                             110
+p:                              26
+n:                              27
+r:                             110
+
+
+
+m:11000000000000000000000000000011
+m:                            1100
+x:                             110
+y:                              11
+p:                              29
+n:                              28
+r:                            1110
+
+
+
+m:11111111110000000111111111111111
+m:              100000000000000000
+x:                               0
+y:                             100
+p:                              21
+n:                               7
+r:              100000000000000000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111000000000000000001111111
+m:                      1000000000
+x:                               1
+y:                             100
+p:                              23
+n:                              17
+r:                      1000000001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111000000111
+m:                           10000
+x:                             111
+y:                              10
+p:                               8
+n:                               6
+r:                           10111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:10000000111111111111111111111111
+m:     110000000000000000000000000
+x:                             101
+y:                             110
+p:                              30
+n:                               7
+r:     110000000000000000000000101
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111000000000011111111111111
+m:              111000000000000000
+x:                            1111
+y:                            1110
+p:                              23
+n:                              10
+r:              111000000000001111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:                      1111111111
+m:                  11110000000000
+x:                               0
+y:                            1111
+p:                              31
+n:                              22
+r:                  11110000000000
+
+
+
+m:11111111111111111000000111111111
+m:                    100000000000
+x:                            1011
+y:                             100
+p:                              14
+n:                               6
+r:                    100000001011
+
+
+
+m:11111111111111111111000000001111
+m:                         1010000
+x:                              11
+y:                             101
+p:                              11
+n:                               8
+r:                         1010011
+
+
+
+m:11111111111100000000011111111111
+m:                  11000000000000
+x:                            1100
+y:                             110
+p:                              19
+n:                               9
+r:                  11000000001100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11110000000000000111111111111111
+m:             1100000000000000000
+x:                            1011
+y:                            1100
+p:                              27
+n:                              13
+r:             1100000000000001011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111110000000011111111111111111
+m:           100000000000000000000
+x:                            1100
+y:                            1000
+p:                              24
+n:                               8
+r:           100000000000000001100
+
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:                            1111
+y:                              11
+p:                               5
+n:                               0
+r:                            1111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111110000000000011111
+m:                        10000000
+x:                             111
+y:                             100
+p:                              15
+n:                              11
+r:                        10000111
+
+
+
+m:10000000000000000000000000000011
+m:                          101000
+x:                            1010
+y:                            1010
+p:                              30
+n:                              29
+r:                          101010
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:                             111
+y:                            1011
+p:                               6
+n:                               0
+r:                             111
+
+
+
+m:11000000000000011111111111111111
+m:            11000000000000000000
+x:                            1111
+y:                             110
+p:                              29
+n:                              13
+r:            11000000000000001111
+
+
+
+m:11111100000000000111111111111111
+m:             1001000000000000000
+x:                               1
+y:                            1001
+p:                              25
+n:                              11
+r:             1001000000000000001
+
+
+
+m:11111111111111100000000111111111
+m:                   1111000000000
+x:                            1011
+y:                            1111
+p:                              16
+n:                               8
+r:                   1111000001011
+
+
+
+m:11111111111111111111100000000011
+m:                           11100
+x:                            1111
+y:                             111
+p:                              10
+n:                               9
+r:                           11111
+
+
+
+m:11000000011111111111111111111111
+m:     101100000000000000000000000
+x:                            1110
+y:                            1011
+p:                              29
+n:                               7
+r:     101100000000000000000001110
+
+
+
+m:11111110000000000001111111111111
+m:                 110000000000000
+x:                            1000
+y:                              11
+p:                              24
+n:                              12
+r:                 110000000001000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11000000000000000111111111111111
+m:               10000000000000000
+x:                            1110
+y:                              10
+p:                              29
+n:                              15
+r:               10000000000001110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11110000000000000000111111111111
+m:                1011000000000000
+x:                           10001
+y:                            1011
+p:                              27
+n:                              16
+r:                1011000000010001
+
+
+
+m:11110000000000000000000000000001
+m:                           11010
+x:                           11100
+y:                            1101
+p:                              27
+n:                              27
+r:                           11010
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111110000111111111111111111111
+m:       1001000000000000000000000
+x:                            1000
+y:                            1001
+p:                              24
+n:                               4
+r:       1001000000000000000001000
+
+
+
+m:11111111111111100000000000001111
+m:                          110000
+x:                             100
+y:                              11
+p:                              16
+n:                              13
+r:                          110100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111000001111111111
+m:                   1000000000000
+x:                               1
+y:                             100
+p:                              14
+n:                               5
+r:                   1000000000001
+
+
+
+m:11111111111111111111111000111111
+m:                       100000000
+x:                           11001
+y:                           10100
+p:                               8
+n:                               3
+r:                       100011001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111000000000000000000000111
+m:                        11011000
+x:                           10110
+y:                           11011
+p:                              23
+n:                              21
+r:                        11011110
+
+
+
+m:10000000000000001111111111111111
+m:            11100000000000000000
+x:                           10010
+y:                            1110
+p:                              30
+n:                              15
+r:            11100000000000010010
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111001111111
+m:                       110000000
+x:                            1011
+y:                           10011
+p:                               8
+n:                               2
+r:                       110001011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111000000000000111111111111
+m:                1101000000000000
+x:                           11100
+y:                            1101
+p:                              23
+n:                              12
+r:                1101000000011100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111110011111111111111111111111
+m:       1000000000000000000000000
+x:                             110
+y:                             110
+p:                              24
+n:                               2
+r:       1000000000000000000000110
+
+
+
+m:11111100000000000000000000111111
+m:                        10000000
+x:                              10
+y:                              10
+p:                              25
+n:                              20
+r:                        10000010
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111111011
+m:                             100
+x:                           11101
+y:                           11001
+p:                               2
+n:                               1
+r:                           11101
+
+
+
+m:11111110000000000111111111111111
+m:            10111000000000000000
+x:                               0
+y:                           10111
+p:                              24
+n:                              10
+r:            10111000000000000000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111100000001111111111111111111
+m:       1100100000000000000000000
+x:                          110101
+y:                          110010
+p:                              25
+n:                               7
+r:       1100100000000000000110101
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111000000000011111
+m:                     11001100000
+x:                              11
+y:                          110011
+p:                              14
+n:                              10
+r:                     11001100011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111101111111111111111
+m:               10000000000000000
+x:                          100001
+y:                          101101
+p:                              16
+n:                               1
+r:               10000000000100001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:10000000000000000111111111111111
+m:            10101000000000000000
+x:                            1110
+y:                           10101
+p:                              30
+n:                              16
+r:            10101000000000001110
+
+
+
+m:10000000000000000000000000000111
+m:                       111000000
+x:                          111000
+y:                          111000
+p:                              30
+n:                              28
+r:                       111000000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111100000000000000000000111
+m:                       101010000
+x:                           11011
+y:                          101010
+p:                              22
+n:                              20
+r:                       101010011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111110001111111
+m:                      1000000000
+x:                          111111
+y:                          110100
+p:                               9
+n:                               3
+r:                      1000111111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111110011111111111111111
+m:             1100000000000000000
+x:                          100000
+y:                          110011
+p:                              18
+n:                               2
+r:             1100000000000100000
+
+
+
+m:11111111111111111000111111111111
+m:                   1000000000000
+x:                            1100
+y:                          111001
+p:                              14
+n:                               3
+r:                   1000000001100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11110000001111111111111111111111
+m:     100000000000000000000000000
+x:                           11100
+y:                           10000
+p:                              27
+n:                               6
+r:     100000000000000000000011100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111000000000000000000000000000
+m:                          100010
+x:                            1110
+y:                          100010
+p:                              26
+n:                              27
+r:                          100010
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:                         1010110
+y:                          110010
+p:                              22
+n:                               0
+r:                         1010110
+
+
+
+m:11111111110000000011111111111111
+m:           101100100000000000000
+x:                         1000101
+y:                         1011001
+p:                              21
+n:                               8
+r:           101100100000001000101
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:       1111111111111111111111111
+m:10110010000000000000000000000000
+x:                         1110000
+y:                         1011001
+p:                              31
+n:                               7
+r:10110010000000000000000001110000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111000000000000000000000011
+m:                         1100000
+x:                         1001011
+y:                           11000
+p:                              23
+n:                              22
+r:                         1100011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111000000000000011111111111
+m:              100110100000000000
+x:                           11100
+y:                         1001101
+p:                              23
+n:                              13
+r:              100110100000011100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11110000000000111111111111111111
+m:          1010000000000000000000
+x:                         1000110
+y:                            1010
+p:                              27
+n:                              10
+r:          1010000000000001000110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:     111111111111111111111111111
+m:  110000000000000000000000000000
+x:                           11010
+y:                             110
+p:                              31
+n:                               5
+r:  110000000000000000000000011010
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111100000000000011111111111111
+m:           110110100000000000000
+x:                         1111011
+y:                         1101101
+p:                              25
+n:                              12
+r:           110110100000001111011
+
+
+
+m:11111111111110000000000000011111
+m:                     11001000000
+x:                          110101
+y:                          110010
+p:                              18
+n:                              14
+r:                     11001010101
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111110000000000000000000001
+m:                          101110
+x:                           11010
+y:                           10111
+p:                              21
+n:                              21
+r:                          101110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111000000111
+m:                       101011000
+x:                          100110
+y:                          101011
+p:                               8
+n:                               6
+r:                       101011110
+
+
+
+m:11111111111111100000000000001111
+m:                     10110100000
+x:                          101001
+y:                         1011010
+p:                              16
+n:                              13
+r:                     10110101001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111110011111111
+m:                      1000000000
+x:                          101110
+y:                         1110110
+p:                               9
+n:                               2
+r:                      1000101110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111000000000111111
+m:                  11110001000000
+x:                        10111110
+y:                        11110001
+p:                              14
+n:                               9
+r:                  11110001111110
+
+
+
+m:11111111111111111100000011111111
+m:                  11100100000000
+x:                        10100000
+y:                          111001
+p:                              13
+n:                               6
+r:                  11100110100000
+
+
+
+m:11111111111111000000000000000011
+m:                      1001110000
+x:                        10001011
+y:                        10011100
+p:                              17
+n:                              16
+r:                      1001110011
+
+
+
+m:11100000000000001111111111111111
+m:        110111110000000000000000
+x:                        10000001
+y:                        11011111
+p:                              28
+n:                              13
+r:        110111110000000010000001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111000000000
+m:                        11111100
+x:                        11010011
+y:                        11111100
+p:                               8
+n:                               9
+r:                        11111100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11110000000000000000000000001111
+m:                    101110010000
+x:                           11100
+y:                        10111001
+p:                              27
+n:                              24
+r:                    101110011100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111100000000111111111
+m:               11111010000000000
+x:                        11001100
+y:                        11111010
+p:                              16
+n:                               8
+r:               11111010011001100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111000000000111111111
+m:               10001000000000000
+x:                        10010001
+y:                        10001000
+p:                              17
+n:                               9
+r:               10001000010010001
+
+
+
+m:11111100000000000000000001111111
+m:                 111011100000000
+x:                          100111
+y:                        11101110
+p:                              25
+n:                              19
+r:                 111011100100111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11110000000000000000011111111111
+m:              101100000000000000
+x:                         1111000
+y:                         1011000
+p:                              27
+n:                              17
+r:              101100000001111000
+
+
+
+m:11111111111111100000000000000000
+m:                        10001011
+x:                        11110001
+y:                        10001011
+p:                              16
+n:                              17
+r:                        10001011
+
+
+
+m:11111111111111111111110000001111
+m:                      1100110000
+x:                             110
+y:                        10110011
+p:                               9
+n:                               6
+r:                      1100110110
+
+
+
+m:11000000000000111111111111111111
+m:      11110011000000000000000000
+x:                          110100
+y:                        11110011
+p:                              29
+n:                              12
+r:      11110011000000000000110100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111110000000000000000000
+m:                        11000001
+x:                           10101
+y:                        11000001
+p:                              18
+n:                              19
+r:                        11000001
+
+
+
+m:11111111111111100000000000001111
+m:                   1111000100000
+x:                       100101000
+y:                       111100010
+p:                              16
+n:                              13
+r:                   1111000101000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:                       111000011
+y:                       111111100
+p:                              31
+n:                               0
+r:                       111000011
+
+
+
+m:11111111111000000000000001111111
+m:                               0
+x:                       111100000
+y:                               0
+p:                              20
+n:                              14
+r:                         1100000
+
+
+
+m:11110000011111111111111111111111
+m:    1010100000000000000000000000
+x:                        11110101
+y:                          110101
+p:                              27
+n:                               5
+r:    1010100000000000000011110101
+
+
+
+m:10000000000000000000000001111111
+m:                  11001110000000
+x:                       100010000
+y:                         1100111
+p:                              30
+n:                              24
+r:                  11001110010000
+
+
+
+m:11111111111111100000011111111111
+m:               11101100000000000
+x:                       100101000
+y:                        11111011
+p:                              16
+n:                               6
+r:               11101100100101000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111000000000000011111111111
+m:               11110100000000000
+x:                        11011010
+y:                          111101
+p:                              23
+n:                              13
+r:               11110100011011010
+
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:                        10001110
+y:                         1110011
+p:                               5
+n:                               0
+r:                        10001110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111110000000011111111111111
+m:               11100000000000000
+x:                           11010
+y:                             111
+p:                              21
+n:                               8
+r:               11100000000011010
+
+
+
+m:11111110000000000000000011111111
+m:                1011110000000000
+x:                       100111001
+y:                        10111100
+p:                              24
+n:                              17
+r:                1011110000111001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111110000000111
+m:                        10001000
+x:                        11001111
+y:                        10010001
+p:                               9
+n:                               7
+r:                        10001111
+
+
+
+m:10000000000000000000000000001111
+m:                           10000
+x:                           11100
+y:                               1
+p:                              30
+n:                              27
+r:                           11100
+
+
+
+m:11111110000111111111111111111111
+m:          1000000000000000000000
+x:                           10000
+y:                        10110001
+p:                              24
+n:                               4
+r:          1000000000000000010000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111000000000000000000000111111
+m:                     10111000000
+x:                       111000011
+y:                           10111
+p:                              26
+n:                              21
+r:                     10111000011
+
+
+
+m:11111111111111111100000011111111
+m:                  11101100000000
+x:                       110000111
+y:                        11111011
+p:                              13
+n:                               6
+r:                  11101110000111
+
+
+
+m:11111111111111111111111000001111
+m:                         1100000
+x:                       101100001
+y:                       110000110
+p:                               8
+n:                               5
+r:                         1100001
+
+
+
+m:10000000000000000000000000000001
+m:                        11010000
+x:                       110100001
+y:                         1101000
+p:                              30
+n:                              30
+r:                        11010001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111100011111111111111111
+m:                               0
+x:                        10100011
+y:                        10110000
+p:                              19
+n:                               3
+r:                        10100011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111110000001111111111111
+m:              111010000000000000
+x:                       111010000
+y:                         1011101
+p:                              18
+n:                               6
+r:              111010000111010000
+
+
+
+m:11111111111111111111000000000001
+m:                        11111110
+x:                           11001
+y:                         1111111
+p:                              11
+n:                              11
+r:                        11111111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111110000000001111
+m:                          100000
+x:                        11000100
+y:                      1000000010
+p:                              12
+n:                               9
+r:                          100100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111110000000000111
+m:                     10101010000
+x:                       101100001
+y:                        10101010
+p:                              12
+n:                              10
+r:                     10101010001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111000000000000000001111111111
+m:             1101011100000000000
+x:                      1011010110
+y:                       110101110
+p:                              26
+n:                              17
+r:             1101011101011010110
+
+
+
+m:10000000000000000000000000111111
+m:                  10001111000000
+x:                      1011101100
+y:                        10001111
+p:                              30
+n:                              25
+r:                  10001111101100
+
+
+
+m:11100111111111111111111111111111
+m:   11000000000000000000000000000
+x:                        11111101
+y:                      1011100111
+p:                              28
+n:                               2
+r:   11000000000000000000011111101
+
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:                       100110111
+y:                      1111001010
+p:                               2
+n:                               0
+r:                       100110111
+
+
+
+m:11111111111111111111111111001111
+m:                          100000
+x:                       110110111
+y:                         1110110
+p:                               5
+n:                               2
+r:                       110100111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:                      1000001011
+y:                      1101010110
+p:                              15
+n:                               0
+r:                      1000001011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111100000111111
+m:                      1110000000
+x:                      1010010100
+y:                       101001110
+p:                              10
+n:                               5
+r:                      1110010100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111110000000000000111111111111
+m:          1111000111000000000000
+x:                             100
+y:                      1111000111
+p:                              24
+n:                              13
+r:          1111000111000000000100
+
+
+
+m:11111111111100000000000001111111
+m:               10010101010000000
+x:                      1001110000
+y:                      1001010101
+p:                              19
+n:                              13
+r:               10010101011110000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111000000000000000111111111111
+m:            10001011000000000000
+x:                       100010111
+y:                        10001011
+p:                              26
+n:                              15
+r:            10001011000100010111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111100111
+m:                           11000
+x:                      1000011101
+y:                        11100111
+p:                               4
+n:                               2
+r:                      1000011101
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:             1111111111111111111
+m:       1101100000000000000000000
+x:                      1101001110
+y:                          110110
+p:                              31
+n:                              13
+r:       1101100000000001101001110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111000000
+m:                          110111
+x:                       110111000
+y:                        11110111
+p:                               5
+n:                               6
+r:                       110110111
+
+
+
+m:11111111111111111100000000000111
+m:                   1001001001000
+x:                      1100111000
+y:                      1001001001
+p:                              13
+n:                              11
+r:                   1001001001000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11000000111111111111111111111111
+m:  111111000000000000000000000000
+x:                      1110011110
+y:                       100111111
+p:                              29
+n:                               6
+r:  111111000000000000001110011110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11000000000000000000000000000011
+m:                   1011010010000
+x:                       110000011
+y:                     10110100100
+p:                              29
+n:                              28
+r:                   1011010010011
+
+
+
+m:11111111111111111111110000001111
+m:                       110010000
+x:                     11111010110
+y:                      1110011001
+p:                               9
+n:                               6
+r:                     10110010110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:            11111111111111111111
+m:   11110100100000000000000000000
+x:                      1111111010
+y:                       111101001
+p:                              31
+n:                              12
+r:   11110100100000000001111111010
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111000000000000000001
+m:                       101011110
+x:                         1011000
+y:                        10101111
+p:                              17
+n:                              17
+r:                       101011110
+
+
+
+m:11111111111110000000111111111111
+m:             1010010000000000000
+x:                     11001001001
+y:                     10001010010
+p:                              18
+n:                               7
+r:             1010010011001001001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111100000011111
+m:                     11010100000
+x:                       111100110
+y:                       110110101
+p:                              10
+n:                               6
+r:                     11010100110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11100000000000000000000000000111
+m:                  11001110101000
+x:                           10001
+y:                     11001110101
+p:                              28
+n:                              26
+r:                  11001110101001
+
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:                      1100101000
+y:                     10010010001
+p:                               6
+n:                               0
+r:                      1100101000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:                     10011001111
+y:                         1101010
+p:                              21
+n:                               0
+r:                     10011001111
+
+
+
+m:11111000000000000000000000011111
+m:                1101010000000000
+x:                        10001000
+y:                     11010100000
+p:                              26
+n:                              22
+r:                1101010000001000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11000111111111111111111111111111
+m:  101000000000000000000000000000
+x:                       110110001
+y:                      1000100101
+p:                              29
+n:                               3
+r:  101000000000000000000110110001
+
+
+
+m:11111111110000000000000000001111
+m:                1001001011000000
+x:                    100001000000
+y:                    100100101100
+p:                              21
+n:                              18
+r:                1001001011000000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111110000000000001111111111111
+m:        111011000010000000000000
+x:                    100011000111
+y:                     11101100001
+p:                              24
+n:                              12
+r:        111011000010100011000111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111000000000011111
+m:                     11001000000
+x:                    110111100111
+y:                    100000110010
+p:                              14
+n:                              10
+r:                     11001000111
+
+
+
+m:11111111111111111111110000111111
+m:                       111000000
+x:                    101110000010
+y:                    101011010111
+p:                               9
+n:                               4
+r:                    100111000010
+
+
+
+m:11111100000000000000000000000001
+m:                    111010111110
+x:                     11000000011
+y:                     11101011111
+p:                              25
+n:                              25
+r:                    111010111111
+
+
+
+m:                              11
+m:                  11011001001000
+x:                    110101110111
+y:                    110110010010
+p:                              31
+n:                              30
+r:                  11011001001011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111000000000111
+m:                    101011010000
+x:                    111110001101
+y:                       101011010
+p:                              11
+n:                               9
+r:                    101011010101
+
+
+
+m:11111110000000000000000000000000
+m:                    110000010010
+x:                    100011101011
+y:                    110000010010
+p:                              24
+n:                              25
+r:                    110000010010
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:               11111111111111111
+m:   10000110101100000000000000000
+x:                    101111000111
+y:                    100001101011
+p:                              31
+n:                              15
+r:   10000110101100000101111000111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111000000011
+m:                        11101000
+x:                      1110011110
+y:                    111110111010
+p:                               8
+n:                               7
+r:                      1011101010
+
+
+
+m:11111100111111111111111111111111
+m:                               0
+x:                    111011011110
+y:                     10110100100
+p:                              25
+n:                               2
+r:                    111011011110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111000000111111111111111
+m:           111000000000000000000
+x:                      1011001010
+y:                    111011111000
+p:                              20
+n:                               6
+r:           111000000001011001010
+
+
+
+m:11110111111111111111111111111111
+m:    1000000000000000000000000000
+x:                       101111000
+y:                     10111001101
+p:                              27
+n:                               1
+r:    1000000000000000000101111000
+
+
+
+m:11110000000000000000000000000001
+m:                   1001001101110
+x:                    100011100110
+y:                    100100110111
+p:                              27
+n:                              27
+r:                   1001001101110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111000000000011111111
+m:              111010111100000000
+x:                   1010111010000
+y:                   1111110101111
+p:                              17
+n:                              10
+r:              111010111111010000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111000000000111111111111111111
+m:     100001010000000000000000000
+x:                       100111010
+y:                       100001010
+p:                              26
+n:                               9
+r:     100001010000000000100111010
+
+
+
+m:11111111100000000000001111111111
+m:           110110101000000000000
+x:                   1010110111010
+y:                     11011010100
+p:                              22
+n:                              13
+r:           110110101000110111010
+
+
+
+m:11111111000001111111111111111111
+m:        111110000000000000000000
+x:                   1101110111111
+y:                   1010000011111
+p:                              23
+n:                               5
+r:        111110000001101110111111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111100011111111111111111
+m:              100000000000000000
+x:                      1101001010
+y:                   1111001101001
+p:                              19
+n:                               3
+r:              100000001101001010
+
+
+
+m:11000000000000000000000000111111
+m:              111100110111000000
+x:                     11110101000
+y:                    111100110111
+p:                              29
+n:                              24
+r:              111100110111101000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111110000000000000000000011111
+m:              111010011111100000
+x:                     11101100110
+y:                   1110100111111
+p:                              24
+n:                              20
+r:              111010011111100110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111000000000000000000000000011
+m:                    100110011100
+x:                   1101010001010
+y:                      1001100111
+p:                              26
+n:                              25
+r:                    100110011110
+
+
+
+m:11000000000000000000000000000000
+m:                     10000000111
+x:                    110010111010
+y:                     10000000111
+p:                              29
+n:                              30
+r:                     10000000111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11100000000000111111111111111111
+m:   10111001111000000000000000000
+x:                    101100101011
+y:                   1110111001111
+p:                              28
+n:                              11
+r:   10111001111000000101100101011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111000000111111111111111111
+m:        100011000000000000000000
+x:                       110001111
+y:                   1110001100011
+p:                              23
+n:                               6
+r:        100011000000000110001111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11100000000000000000000011111111
+m:            11010010100000000000
+x:                   1010011011000
+y:                    110100101000
+p:                              28
+n:                              21
+r:            11010010100011011000
+
+
+
+m:11111110000000001111111111111111
+m:             1000000000000000000
+x:                    111011110100
+y:                   1111000000100
+p:                              24
+n:                               9
+r:             1000000111011110100
+
+
+
+m:11111110000011111111111111111111
+m:        101100000000000000000000
+x:                     11100101100
+y:                   1111100001011
+p:                              24
+n:                               5
+r:        101100000000011100101100
+
+
+
+m:11111111111000000000000001111111
+m:             1001011000010000000
+x:                     11110001111
+y:                    100101100001
+p:                              20
+n:                              14
+r:             1001011000010001111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11100000000000000000000001111111
+m:            11111000101000000000
+x:                   1000011001000
+y:                   1111100010100
+p:                              28
+n:                              22
+r:            11111000101001001000
+
+
+
+m:11111110000000000000000000000001
+m:                 111011010010110
+x:                  11000001011110
+y:                  11101101001011
+p:                              24
+n:                              24
+r:                 111011010010110
+
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:                  10100101010001
+y:                    111111100111
+p:                               2
+n:                               0
+r:                  10100101010001
+
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:                  10111101000101
+y:                    101100110010
+p:                              23
+n:                               0
+r:                  10111101000101
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111110000000000011
+m:                   1101111000000
+x:                   1011111100011
+y:                     11011110000
+p:                              12
+n:                              11
+r:                   1101111000011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111000000000000000000000000000
+m:                  11011101001101
+x:                  11001011011110
+y:                  11011101001101
+p:                              26
+n:                              27
+r:                  11011101001101
+
+
+
+m:11111111000000000000000000001111
+m:              111110010010110000
+x:                  10100111111000
+y:                  11111001001011
+p:                              23
+n:                              20
+r:              111110010010111000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11110000000000000000000000000001
+m:                  11111000101100
+x:                   1000101110110
+y:                   1111100010110
+p:                              27
+n:                              27
+r:                  11111000101100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111110000000000000111111111
+m:          1101000011110000000000
+x:                  10101011101111
+y:                  11101000011110
+p:                              21
+n:                              13
+r:          1101000011110011101111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111110000001
+m:                          111010
+x:                   1110111000111
+y:                  11010100011101
+p:                               6
+n:                               6
+r:                   1110110111011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111110011111111
+m:                      1000000000
+x:                  10000100100111
+y:                  10111001011010
+p:                               9
+n:                               2
+r:                  10001000100111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111110000000111111111111111111
+m:        100001000000000000000000
+x:                   1100011111011
+y:                   1100110100001
+p:                              24
+n:                               7
+r:        100001000001100011111011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111000000000000000011111
+m:              100001011100100000
+x:                            1000
+y:                   1000010111001
+p:                              20
+n:                              16
+r:              100001011100101000
+
+
+
+m:11111111110000000000000000000001
+m:                    111010100100
+x:                   1011011001011
+y:                     11101010010
+p:                              21
+n:                              21
+r:                    111010100101
+
+
+
+m:11111111111111111100000000000011
+m:                  11110000110100
+x:                  11110111010010
+y:                  11111100001101
+p:                              13
+n:                              12
+r:                  11110000110110
+
+
+
+m:10000000000000000000111111111111
+m:      10101101010001000000000000
+x:                  10101001000111
+y:                  10101101010001
+p:                              30
+n:                              19
+r:      10101101010001101001000111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11110000000000000000000000111111
+m:              111100101111000000
+x:                    100001111110
+y:                    111100101111
+p:                              27
+n:                              22
+r:              111100101111111110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:10000111111111111111111111111111
+m: 1100000000000000000000000000000
+x:                 110101110110101
+y:                   1111110011100
+p:                              30
+n:                               4
+r: 1100000000000000110101110110101
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:                    100111000001
+y:                 100000001000101
+p:                               3
+n:                               0
+r:                    100111000001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:                 110011101110010
+y:                   1010111100100
+p:                              16
+n:                               0
+r:                 110011101110010
+
+
+
+m:                      1111111111
+m:       1011001100010100000000000
+x:                  11101110010000
+y:                 101100110001010
+p:                              31
+n:                              22
+r:       1011001100010101110010000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:     111111111111111111111111111
+m:  110000000000000000000000000000
+x:                   1100101011000
+y:                  11111000000110
+p:                              31
+n:                               5
+r:  110000000000000001100101011000
+
+
+
+m:11111111111000000000000011111111
+m:           100010100100000000000
+x:                 110110111100010
+y:                 111000101001000
+p:                              20
+n:                              13
+r:           100010100100011100010
+
+
+
+m:11111111111111111111111110000001
+m:                         1011100
+x:                   1110110110000
+y:                 111000010101110
+p:                               6
+n:                               6
+r:                   1110111011100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:10000000011111111111111111111111
+m:  101101100000000000000000000000
+x:                   1111100001000
+y:                 100000001011011
+p:                              30
+n:                               8
+r:  101101100000000001111100001000
+
+
+
+m:11110000000011111111111111111111
+m:      11010100000000000000000000
+x:                  11100110110100
+y:                 110110100110101
+p:                              27
+n:                               8
+r:      11010100000011100110110100
+
+
+
+m:11111111000111111111111111111111
+m:        100000000000000000000000
+x:                  11000011111011
+y:                 101000110001100
+p:                              23
+n:                               3
+r:        100000000011000011111011
+
+
+
+m:11111111111111111110000001111111
+m:                    101110000000
+x:                      1001011101
+y:                 110111111010111
+p:                              12
+n:                               6
+r:                    101111011101
+
+
+
+m:11111111111000000000000000000001
+m:                1101011011110010
+x:                 110100001001000
+y:                 110101101111001
+p:                              20
+n:                              20
+r:                1101011011110010
+
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:                   1011111010111
+y:                 111011101001101
+p:                              31
+n:                               0
+r:                   1011111010111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111111101
+m:                              10
+x:                 100101011000011
+y:                 110100000001001
+p:                               1
+n:                               1
+r:                 100101011000011
+
+
+
+m:11111111111111000011111111111111
+m:              101100000000000000
+x:                 101010010111110
+y:                   1011001111011
+p:                              17
+n:                               4
+r:              101101010010111110
+
+
+
+m:                  11111111111111
+m:   11111110111011100000000000000
+x:                  10001101110000
+y:                 111111101110111
+p:                              31
+n:                              18
+r:   11111110111011110001101110000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11100000000000000000000000000011
+m:               10000100010101000
+x:                  11110011101100
+y:                 100001000101010
+p:                              28
+n:                              27
+r:               10000100010101000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111000000000000111111111111111
+m:       1101111101000000000000000
+x:                 100011100111011
+y:                 110001101111101
+p:                              26
+n:                              12
+r:       1101111101100011100111011
+
+
+
+m:11111111111100000000000000011111
+m:               11110101100000000
+x:                 100010010110000
+y:                1000111101011000
+p:                              19
+n:                              15
+r:               11110101100010000
+
+
+
+m:11100000000000000000000000011111
+m:            11011001001111000000
+x:                 111100110100111
+y:                 110110010011110
+p:                              28
+n:                              24
+r:            11011001001111000111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111000000000001
+m:                       111001110
+x:                1001011001101101
+y:                1101100011100111
+p:                              11
+n:                              11
+r:                1001000111001111
+
+
+
+m:11111111111111111111111110000000
+m:                          101011
+x:                1100001010111010
+y:                1000011000101011
+p:                               6
+n:                               7
+r:                1100001010101011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111100111111111111111111111
+m:          1000000000000000000000
+x:                   1010010011101
+y:                 100111110010001
+p:                              22
+n:                               2
+r:          1000000001010010011101
+
+
+
+m:11111111111111111111111110000111
+m:                         1001000
+x:                1000100001110100
+y:                1001110010001001
+p:                               6
+n:                               4
+r:                1000100001001100
+
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:                   1110111000100
+y:                1010010000100010
+p:                              12
+n:                               0
+r:                   1110111000100
+
+
+
+m:11111111111111000111111111111111
+m:              111000000000000000
+x:                   1111000101100
+y:                1010110111011111
+p:                              17
+n:                               3
+r:              111001111000101100
+
+
+
+m:11100000000000000011111111111111
+m:    1011001110111100000000000000
+x:                   1100011111110
+y:                1010110011101111
+p:                              28
+n:                              15
+r:    1011001110111101100011111110
+
+
+
+m:11100000000000000111111111111111
+m:   10100010101010000000000000000
+x:                1010011100111100
+y:                1010100010101010
+p:                              28
+n:                              14
+r:   10100010101010010011100111100
+
+
+
+m:11111111100000000011111111111111
+m:         11011001000000000000000
+x:                   1111001011000
+y:                1010010110110010
+p:                              22
+n:                               9
+r:         11011001001111001011000
+
+
+
+m:11111111111111111111111110000000
+m:                          111010
+x:                  10010110100101
+y:                 111101110111010
+p:                               6
+n:                               7
+r:                  10010110111010
+
+
+
+m:11111000000000000000000000000111
+m:              111011111100100000
+x:                1000010001010011
+y:                 111011111100100
+p:                              26
+n:                              24
+r:              111011111100100011
+
+
+
+m:11111111111111000000000111111111
+m:                1110011000000000
+x:                1111000100010001
+y:                1100010001110011
+p:                              17
+n:                               9
+r:                1110011100010001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111110111
+m:                               0
+x:                1111110100101001
+y:                1010100101010000
+p:                               3
+n:                               1
+r:                1111110100100001
+
+
+
+m:11111111111111110011111111111111
+m:                 100000000000000
+x:                 111111001101100
+y:                1000101011010101
+p:                              15
+n:                               2
+r:                 111111001101100
+
+
+
+m:11111111111111111111111111101111
+m:                           10000
+x:                 100110011111001
+y:                  10011001110001
+p:                               4
+n:                               1
+r:                 100110011111001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11110000000000000000111111111111
+m:    1010010000101110000000000000
+x:                1001010100110011
+y:                1010010000101110
+p:                              27
+n:                              16
+r:    1010010000101110010100110011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111000000000000000000000011
+m:               10000000000111000
+x:                  11110001111011
+y:                 100000000001110
+p:                              23
+n:                              22
+r:               10000000000111011
+
+
+
+m:11111111111111111111000000000000
+m:                     11101111101
+x:                 110111111100000
+y:                 101011101111101
+p:                              11
+n:                              12
+r:                 110011101111101
+
+
+
+m:11100000000111111111111111111111
+m:     110101000000000000000000000
+x:                 111001000000100
+y:                  11011000110101
+p:                              28
+n:                               8
+r:     110101000000111001000000100
+
+
+
+m:11111111100000000001111111111111
+m:         10101100000000000000000
+x:                 101001001011111
+y:               10001101010110000
+p:                              22
+n:                              10
+r:         10101100001001001011111
+
+
+
+m:11111111110000000111111111111111
+m:           101001000000000000000
+x:               11111110000011101
+y:                 111100000101001
+p:                              21
+n:                               7
+r:           101001111110000011101
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11110000000000000000000000000011
+m:             1100101011111110100
+x:               11110101111100001
+y:               11001010111111101
+p:                              27
+n:                              26
+r:             1100101011111110101
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111000000000
+m:                        11010100
+x:               11100001001111010
+y:               11011111011010100
+p:                               8
+n:                               9
+r:               11100001011010100
+
+
+
+m:11111100000000000000000000000000
+m:                 101011000110001
+x:               11011011101101000
+y:                 101011000110001
+p:                              25
+n:                              26
+r:                 101011000110001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111000000000000001111111
+m:             1010111110100000000
+x:               11111010010110000
+y:                1100101011111010
+p:                              20
+n:                              14
+r:             1010111110100110000
+
+
+
+m:11111000000000000000000000001111
+m:              111011101001110000
+x:               10111100011000111
+y:                  11101110100111
+p:                              26
+n:                              23
+r:              111011101001110111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111000000000000011111111111111
+m:     101100110001100000000000000
+x:               11011010101010100
+y:                  11011001100011
+p:                              26
+n:                              13
+r:     101100110001111010101010100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111000000011111111111111
+m:           111010000000000000000
+x:                 101101110100111
+y:                1011110011110100
+p:                              20
+n:                               7
+r:           111010001101110100111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:10000000000000000111111111111111
+m:  101111110001001000000000000000
+x:                1100011110110000
+y:                 101111110001001
+p:                              30
+n:                              16
+r:  101111110001001100011110110000
+
+
+
+m:11000000000000000000111111111111
+m:   11010101111111000000000000000
+x:               11100111101010011
+y:               11010101111111000
+p:                              29
+n:                              18
+r:   11010101111111000111101010011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11000000000000000000011111111111
+m:    1101110100011001100000000000
+x:               11000011100110000
+y:               11011101000110011
+p:                              29
+n:                              19
+r:    1101110100011001111100110000
+
+
+
+m:11000000000111111111111111111111
+m:   10011001000000000000000000000
+x:                  10100111101010
+y:                    110010011001
+p:                              29
+n:                               9
+r:   10011001000000010100111101010
+
+
+
+m:11000000000111111111111111111111
+m:    1111111000000000000000000000
+x:                1010011011011001
+y:               10100011001111111
+p:                              29
+n:                               9
+r:    1111111000001010011011011001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:              100111001000001000
+y:              100000110001100011
+p:                               7
+n:                               0
+r:              100111001000001000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111000000000000111
+m:                 101000111000000
+x:              100000110011010110
+y:               11000101000111000
+p:                              14
+n:                              12
+r:              100101000111000110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111110000111111111111
+m:                  11000000000000
+x:               10001010111000111
+y:               10010011000010011
+p:                              15
+n:                               4
+r:               10011010111000111
+
+
+
+m:11111111111111111111100000000001
+m:                       111101000
+x:                  11011100001110
+y:                   1110011110100
+p:                              10
+n:                              10
+r:                  11000111101000
+
+
+
+m:11111111111111111111000000111111
+m:                    100111000000
+x:              100010111101101000
+y:                 100010000100111
+p:                              11
+n:                               6
+r:              100010100111101000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111000000111111111111
+m:               10011000000000000
+x:              101001111001101010
+y:                1000010011010011
+p:                              17
+n:                               6
+r:               10011111001101010
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111100000001111111
+m:                  11100010000000
+x:                 101111100111100
+y:                1110010011110001
+p:                              13
+n:                               7
+r:                 111100010111100
+
+
+
+m:11111000000000011111111111111111
+m:      10111110100000000000000000
+x:              100011000101010001
+y:                   1110101111101
+p:                              26
+n:                              10
+r:      10111110100011000101010001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:              110011010010000001
+y:              110100100101110100
+p:                              31
+n:                               0
+r:              110011010010000001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111110000000000000011111
+m:             1001101111000100000
+x:              100111011001001011
+y:               11110011011110001
+p:                              18
+n:                              14
+r:             1001101111000101011
+
+
+
+m:11100000111111111111111111111111
+m:    1011000000000000000000000000
+x:                 110011101000100
+y:              100111111000001011
+p:                              28
+n:                               5
+r:    1011000000000110011101000100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111001111111111111111111
+m:            10000000000000000000
+x:              101000000110001001
+y:              110010101101100101
+p:                              20
+n:                               2
+r:            10101000000110001001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11000000000000000000000000000001
+m:              100000110101110010
+x:               11011110001010101
+y:               10000011010111001
+p:                              29
+n:                              29
+r:              100000110101110011
+
+
+
+m:10000000000000011111111111111111
+m:  110101101111100000000000000000
+x:                 110011100000001
+y:              101101101011011111
+p:                              30
+n:                              14
+r:  110101101111100110011100000001
+
+
+
+m:11111100000000000111111111111111
+m:       1000101110000000000000000
+x:                1000010110110010
+y:              110111001000101110
+p:                              25
+n:                              11
+r:       1000101110000010110110010
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111000000111111111111111111
+m:        110100000000000000000000
+x:                1011110001011011
+y:             1000110001100110100
+p:                              23
+n:                               6
+r:        110100001011110001011011
+
+
+
+m:10000000000111111111111111111111
+m:  101101000000000000000000000000
+x:             1110000001010110001
+y:               11111000101101000
+p:                              30
+n:                              10
+r:  101101000001110000001010110001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:               11111111111111111
+m:11010011100111000000000000000000
+x:              100101110101111000
+y:             1001110100111001110
+p:                              31
+n:                              15
+r:11010011100111000101110101111000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:10000000000000000000000111111111
+m:    1110000001110100001000000000
+x:             1101000011110011011
+y:             1110000001110100001
+p:                              30
+n:                              22
+r:    1110000001110100001110011011
+
+
+
+m:11000000000000000000001111111111
+m:   10101011110111010000000000000
+x:                1100010111100110
+y:             1010101111011101000
+p:                              29
+n:                              20
+r:   10101011110111010000111100110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11000000000000000000000000111111
+m:         11100101000110010000000
+x:              111000011100111110
+y:               11100101000110010
+p:                              29
+n:                              24
+r:         11100101000110010111110
+
+
+
+m:                     11111111111
+m:    1100101111110100000000000000
+x:             1000110010110010010
+y:               11001011111101000
+p:                              31
+n:                              21
+r:    1100101111110100010110010010
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111000000000000011111111111111
+m:     110100100010100000000000000
+x:              101111010100010111
+y:             1001111101001000101
+p:                              26
+n:                              13
+r:     110100100010111010100010111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11110000000000000000000000000000
+m:              110101001111000000
+x:                1010111110011110
+y:              110101001111000000
+p:                              27
+n:                              28
+r:              110101001111000000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111110000000011111
+m:                   1111101100000
+x:              111110100010100101
+y:              100000010111111011
+p:                              12
+n:                               8
+r:              111111111101100101
+
+
+
+m:11111111111100000000000111111111
+m:             1100111011000000000
+x:              110000001000010010
+y:              100010101100111011
+p:                              19
+n:                              11
+r:             1100111011000010010
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11000000000000000111111111111111
+m:    1011010010000000000000000000
+x:             1101000100000011110
+y:             1111001011010010000
+p:                              29
+n:                              15
+r:    1011010010000000100000011110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111100000000000000111111
+m:             1110000110100000000
+x:                  11100101010010
+y:              111101110000110100
+p:                              19
+n:                              14
+r:             1110000110100010010
+
+
+
+m:                               1
+m:           110001001001110110100
+x:               10111110100011011
+y:            11000100100111011010
+p:                              31
+n:                              31
+r:           110001001001110110101
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111000000001111111
+m:                 111001110000000
+x:               10001111101111100
+y:            10100100001011100111
+p:                              14
+n:                               8
+r:               10111001111111100
+
+
+
+m:11111111111111111111111111110011
+m:                               0
+x:               10100111011100101
+y:            10011100000100000100
+p:                               3
+n:                               2
+r:               10100111011100001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111100111111111111111111
+m:            10000000000000000000
+x:             1010011110000111011
+y:            10110010001101001010
+p:                              19
+n:                               2
+r:            10010011110000111011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:                   1111111111111
+m:11000001101001101100000000000000
+x:             1010000110110101010
+y:             1100000110100110110
+p:                              31
+n:                              19
+r:11000001101001101100110110101010
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111000001
+m:                           10100
+x:                 111101111101010
+y:            11110010111100001010
+p:                               5
+n:                               5
+r:                 111101111010100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11100000000000000000000011111111
+m:     111011001011000110100000000
+x:              100001100100001111
+y:             1110110010110001101
+p:                              28
+n:                              21
+r:     111011001011000110100001111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111101111111111111111111111111
+m:      10000000000000000000000000
+x:            11011001101000010000
+y:             1010000110001001001
+p:                              25
+n:                               1
+r:      10000011011001101000010000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111110000000000000000000111111
+m:       1000110110001010010000000
+x:             1010101000000011101
+y:             1000110110001010010
+p:                              24
+n:                              19
+r:       1000110110001010010011101
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111100000000000000000000001111
+m:        110000010110100011100000
+x:             1001010100111011111
+y:            11000001011010001110
+p:                              25
+n:                              22
+r:        110000010110100011101111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111110111111111111
+m:                               0
+x:            10101001011000100010
+y:              100101111111010100
+p:                              12
+n:                               1
+r:            10101000011000100010
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111100000111
+m:                        11001000
+x:               10110010110111011
+y:            10110010111100111001
+p:                               7
+n:                               5
+r:               10110010111001011
+
+
+
+m:11111100000000000000000000001111
+m:        101101000101111110000000
+x:                1000000100110000
+y:            10110100010111111000
+p:                              25
+n:                              22
+r:        101101000101111110000000
+
+
+
+m:11000000000000000000000111111111
+m:    1100111100011010110000000000
+x:             1010011111011001001
+y:             1100111100011010110
+p:                              29
+n:                              21
+r:    1100111100011010110011001001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111000000011111111111111111111
+m:        101100000000000000000000
+x:            10111001001000111010
+y:            10010010101110001011
+p:                              26
+n:                               7
+r:        101110111001001000111010
+
+
+
+m:11110000000000000000011111111111
+m:    1111000011101100000000000000
+x:            10000110100001110111
+y:              111110000111011000
+p:                              27
+n:                              17
+r:    1111000011101100000001110111
+
+
+
+m:11111111100000000000000000000011
+m:          1000100001100000101100
+x:            10111110101001111110
+y:            10001000011000001011
+p:                              22
+n:                              21
+r:          1000100001100000101110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111110000000000000011111111111
+m:          1010001011000000000000
+x:            10111011000001101111
+y:             1101000010100010110
+p:                              24
+n:                              14
+r:          1010001011000001101111
+
+
+
+m:11111111111110000000000111111111
+m:             1000110000000000000
+x:            10101000110010001001
+y:           101110000111000110000
+p:                              18
+n:                              10
+r:            11000110000010001001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111110000000001111111111
+m:                1111110000000000
+x:           110111001110000111111
+y:           101110001010000111111
+p:                              18
+n:                               9
+r:           110001111110000111111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:10000000000000000000000000001111
+m:       1000100011100010100100000
+x:           110111101101100101001
+y:           100010001110001010010
+p:                              30
+n:                              27
+r:       1000100011100010100101001
+
+
+
+m:11111111111111111111110001111111
+m:                      1100000000
+x:           110010100000000111110
+y:           101001001110011001110
+p:                               9
+n:                               3
+r:           110010100001100111110
+
+
+
+m:11110000000000000111111111111111
+m:     101111111001000000000000000
+x:            10100110001001100010
+y:            10011110101111111001
+p:                              27
+n:                              13
+r:     101111111001110001001100010
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:      11111111111111111111111111
+m: 1110100000000000000000000000000
+x:              111000000101110111
+y:           111100000101111011101
+p:                              31
+n:                               6
+r: 1110100000000111000000101110111
+
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:           110110001001101101101
+y:           111111010100000101110
+p:                               6
+n:                               0
+r:           110110001001101101101
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111000000000000000000001111
+m:          1101100100011000010000
+x:            10110011100011011100
+y:           100110110010001100001
+p:                              23
+n:                              20
+r:          1101100100011000011100
+
+
+
+m:11111111111100000000000001111111
+m:            10111011010000000000
+x:           111101101100110100111
+y:            11111101011101101000
+p:                              19
+n:                              13
+r:           110111011010000100111
+
+
+
+m:11111110000000000000000000111111
+m:         10100100000000010000000
+x:           101110000111000010100
+y:           100010100100000000010
+p:                              24
+n:                              19
+r:         10100100000000010010100
+
+
+
+m:11110000000000000000000000000001
+m:           110100110001100110100
+x:            11011011101110001011
+y:            11010011000110011010
+p:                              27
+n:                              27
+r:           110100110001100110101
+
+
+
+m:11111111111111100011111111111111
+m:               10100000000000000
+x:           111011110110111101001
+y:              110111010101110101
+p:                              16
+n:                               3
+r:           111010110110111101001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111100000001111111111111111
+m:           111110000000000000000
+x:              111011110001100111
+y:           100100101010010011111
+p:                              22
+n:                               7
+r:           111111011110001100111
+
+
+
+m:11111111111111111111000000000001
+m:                     11110100000
+x:               10011011000101001
+y:             1000000101111010000
+p:                              11
+n:                              11
+r:               10011011110100001
+
+
+
+m:11111100000000000000000000000000
+m:           110001101100000101111
+x:                          110011
+y:           110001101100000101111
+p:                              25
+n:                              26
+r:           110001101100000101111
+
+
+
+m:11111111100000000000000000111111
+m:         10101010101001010000000
+x:           101100010100100010001
+y:             1010101010101001010
+p:                              22
+n:                              17
+r:         10101010101001010010001
+
+
+
+m:11111111111111110011111111111111
+m:                               0
+x:            11000110101110010011
+y:           100001000111001011000
+p:                              15
+n:                               2
+r:            11000010101110010011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111100111111111
+m:                      1000000000
+x:          1100100101001001101101
+y:            10111110110100000001
+p:                              10
+n:                               2
+r:          1100100101001001101101
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111110000111111111111111
+m:             1011000000000000000
+x:            10001011001101000101
+y:           100011001110110001011
+p:                              18
+n:                               4
+r:            11011011001101000101
+
+
+
+m:10000001111111111111111111111111
+m: 1101000000000000000000000000000
+x:            10101110000011010111
+y:            10100111101001110100
+p:                              30
+n:                               6
+r: 1101000000010101110000011010111
+
+
+
+m:11111111111111100000000000001111
+m:               10010010010000000
+x:           101000110101101001011
+y:          1010101001001001001000
+p:                              16
+n:                              13
+r:           101010010010010001011
+
+
+
+m:11111111111111111111111000000111
+m:                        10010000
+x:          1010001101111100111011
+y:           110001000010100010010
+p:                               8
+n:                               6
+r:          1010001101111010010011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111100011111
+m:                        10100000
+x:          1111101100100101010100
+y:           111011000110100001101
+p:                               7
+n:                               3
+r:          1111101100100110110100
+
+
+
+m:11111100000000000000000011111111
+m:       1010111011111000000000000
+x:           111100011010011100111
+y:             1010101110111110000
+p:                              25
+n:                              18
+r:       1010111011111000011100111
+
+
+
+m:11111111111111111111110011111111
+m:                      1000000000
+x:          1110000101011101001001
+y:            11001001100101000010
+p:                               9
+n:                               2
+r:          1110000101011001001001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11000000000000000000000001111111
+m:    1100101111101011101110000000
+x:          1011111100001001101010
+y:           110010111110101110111
+p:                              29
+n:                              23
+r:    1100101111101011101111101010
+
+
+
+m:11111111111111111111111000000111
+m:                       111000000
+x:          1100110000000101110101
+y:          1011001111100001111000
+p:                               8
+n:                               6
+r:          1100110000000111000101
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111100000000000000111111
+m:            10010100010000000000
+x:             1000100011111000010
+y:          1000010010010100010000
+p:                              19
+n:                              14
+r:            10010100010000000010
+
+
+
+m:11111111111111111000001111111111
+m:                 111000000000000
+x:             1001110011110010110
+y:           100111100010111011100
+p:                              14
+n:                               5
+r:             1001111001110010110
+
+
+
+m:11111111111000000000000000000111
+m:           100000001011101100000
+x:          1000000100110110001100
+y:            10100000001011101100
+p:                              20
+n:                              18
+r:          1100000001011101100100
+
+
+
+m:10000000000000011111111111111111
+m: 1111100111000000000000000000000
+x:           100111001000011010011
+y:          1101011011111001110000
+p:                              30
+n:                              14
+r: 1111100111000011001000011010011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111000000011111111111111
+m:            10111000000000000000
+x:          1011111100000011001101
+y:           110010101101100101110
+p:                              20
+n:                               7
+r:          1010111000000011001101
+
+
+
+m:11000000000000000000000000011111
+m:     110101000111001111111100000
+x:           111101100111101000000
+y:          1101010001110011111111
+p:                              29
+n:                              25
+r:     110101000111001111111100000
+
+
+
+m:11111110000000001111111111111111
+m:        101101110000000000000000
+x:          1111000001101111110010
+y:          1010011011110010110111
+p:                              24
+n:                               9
+r:        101101110001101111110010
+
+
+
+m:10000000111111111111111111111111
+m: 1010010000000000000000000000000
+x:          1100000011111111111001
+y:            10001001000001010010
+p:                              30
+n:                               7
+r: 1010010001100000011111111111001
+
+
+
+m:11111000000000000000011111111111
+m:     111010101011100000000000000
+x:             1000001000111000000
+y:           111011110101010111000
+p:                              26
+n:                              16
+r:     111010101011100000111000000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111100011111111111111111
+m:             1100000000000000000
+x:          1110001110100101111011
+y:              111011011011110011
+p:                              19
+n:                               3
+r:          1101101110100101111011
+
+
+
+m:                               1
+m:        100001100111111010101100
+x:           111111001010110000101
+y:         10000110011111101010110
+p:                              31
+n:                              31
+r:        100001100111111010101101
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:              111111111111111111
+m:  100110100000000000000000000000
+x:                   1001101000110
+y:          1110111000100110100000
+p:                              31
+n:                              14
+r:  100110100000000001001101000110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111111110
+m:                               1
+x:          1101101101000110001011
+y:         10010111100100110110001
+p:                               0
+n:                               1
+r:          1101101101000110001011
+
+
+
+m:11111111000000000000011111111111
+m:           111110101100000000000
+x:         10100100001011100111110
+y:          1011111000001111101011
+p:                              23
+n:                              13
+r:           111110101111100111110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:          1000011100000111000001
+y:           111100000000011000000
+p:                              16
+n:                               0
+r:          1000011100000111000001
+
+
+
+m:11111111000000000000000000000011
+m:          1101110100011110000100
+x:           100001001111110100110
+y:         10011011101000111100001
+p:                              23
+n:                              22
+r:          1101110100011110000110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111000111
+m:                            1000
+x:         10000000000100101111100
+y:            11110001110101100001
+p:                               5
+n:                               3
+r:         10000000000100101001100
+
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:           101100001100110101101
+y:          1100100101100110011000
+p:                               9
+n:                               0
+r:           101100001100110101101
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111110011111111111111
+m:                1100000000000000
+x:         10010000001111111100001
+y:          1001010110010011011111
+p:                              15
+n:                               2
+r:         10010001101111111100001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111100011111111111111111
+m:             1000000000000000000
+x:         10000000000000101111111
+y:          1001000110001101010010
+p:                              19
+n:                               3
+r:         10001000000000101111111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111110000111111111111111
+m:              100000000000000000
+x:             1101001101110100110
+y:          1101100000011100000100
+p:                              18
+n:                               4
+r:              100001101110100110
+
+
+
+m:11100111111111111111111111111111
+m:   10000000000000000000000000000
+x:           100001100010110000001
+y:         11110010001000111100010
+p:                              28
+n:                               2
+r:   10000000100001100010110000001
+
+
+
+m:11111111111111111110000011111111
+m:                               0
+x:         10010100011001100111011
+y:         10010010011010110100000
+p:                              12
+n:                               5
+r:         10010100010000000111011
+
+
+
+m:11110001111111111111111111111111
+m:      10000000000000000000000000
+x:           110100111111000000110
+y:         11000010100010001101001
+p:                              27
+n:                               3
+r:      10000110100111111000000110
+
+
+
+m:11111111111111111111111110001111
+m:                               0
+x:           110100001100000001100
+y:            10111111111010110000
+p:                               6
+n:                               3
+r:           110100001100000001100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:           101110111110000110011
+y:                1110110111101101
+p:                              26
+n:                               0
+r:           101110111110000110011
+
+
+
+m:11111111111111110000000000000000
+m:                1001011011011011
+x:         11001011101101000010101
+y:          1001111001011011011011
+p:                              15
+n:                              16
+r:         11001011001011011011011
+
+
+
+m:11111111111111000001111111111111
+m:                1110000000000000
+x:            10010100111111001011
+y:         10111100100110100000111
+p:                              17
+n:                               5
+r:            10001110111111001011
+
+
+
+m:11111111110000000000000111111111
+m:           101100100011000000000
+x:         11010111111001101101010
+y:            11010110101100100011
+p:                              21
+n:                              13
+r:         10101100100011101101010
+
+
+
+m:11111111111111100000000000000001
+m:                1010100011010000
+x:          1111100101111000010011
+y:        111100110101010001101000
+p:                              16
+n:                              16
+r:          1111101010100011010001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11000000000000000000000000000001
+m:       1111000010010101110010100
+x:        101111100010111001011100
+y:        111100001001010111001010
+p:                              29
+n:                              29
+r:       1111000010010101110010100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111101111111111111111111
+m:            10000000000000000000
+x:        100110010000100001010111
+y:          1100000100111100010101
+p:                              19
+n:                               1
+r:        100110010000100001010111
+
+
+
+m:11111111000000111111111111111111
+m:        101000000000000000000000
+x:        110010111100000000001101
+y:         11101011011101101101000
+p:                              23
+n:                               6
+r:        101000111100000000001101
+
+
+
+m:11111100000000000000000111111111
+m:      11010100110011111000000000
+x:          1101110110101000100111
+y:          1100011010100110011111
+p:                              25
+n:                              17
+r:      11010100110011111000100111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111000000000000111111111111
+m:         10101001001000000000000
+x:        100100101011111100101011
+y:           100011001010101001001
+p:                              23
+n:                              12
+r:         10101001001111100101011
+
+
+
+m:11111100000111111111111111111111
+m:       1000000000000000000000000
+x:        101111111101000101110100
+y:        110001011110111000001000
+p:                              25
+n:                               5
+r:       1000111111101000101110100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111100000000000000000000000
+m:          1110010100110011110111
+x:         11101111101010011011101
+y:        101110010100110011110111
+p:                              22
+n:                              23
+r:          1110010100110011110111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:                 111111111111111
+m:    1110110100101000000000000000
+x:         11011000001010010000101
+y:        111000000001110110100101
+p:                              31
+n:                              17
+r:    1110110100101001010010000101
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111100000000000000001111111
+m:          1011100000000100000000
+x:        111010001110011010010000
+y:        100011110101110000000010
+p:                              22
+n:                              16
+r:        101011100000000100010000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111110001111111111
+m:                   1100000000000
+x:        110001111110111010111000
+y:           101000110100101101110
+p:                              12
+n:                               3
+r:        110001111111101010111000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11000000000001111111111111111111
+m:   10110010100000000000000000000
+x:        100011111100100101100111
+y:        100111110111001011001010
+p:                              29
+n:                              11
+r:   10110010101111100100101100111
+
+
+
+m:11111000000000000000011111111111
+m:      10110010001101100000000000
+x:            10001011111100010001
+y:        111000100101100100011011
+p:                              26
+n:                              16
+r:      10110010001101111100010001
+
+
+
+m:11111111111111110011111111111111
+m:                 100000000000000
+x:        110110011001010100111001
+y:       1001000110101110001001101
+p:                              15
+n:                               2
+r:        110110010101010100111001
+
+
+
+m:11111111000000000000000000000000
+m:        101001011101011000110110
+x:          1101100000001101100100
+y:        101001011101011000110110
+p:                              23
+n:                              24
+r:        101001011101011000110110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111100000000000001111
+m:               10100001101010000
+x:        101011000010000111110010
+y:         11011100011010000110101
+p:                              16
+n:                              13
+r:        101011010100001101010010
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11000000000000000000111111111111
+m:  110101001000110100000000000000
+x:       1110010111111010001001111
+y:        110111110101001000110100
+p:                              29
+n:                              18
+r:  110101001000110100010001001111
+
+
+
+m:11111111110000011111111111111111
+m:           101000000000000000000
+x:        100101100010110100001000
+y:       1110000101000100111001010
+p:                              21
+n:                               5
+r:        100101000010110100001000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111001111111
+m:                       110000000
+x:       1001110011100100111011111
+y:        101111011000101100000011
+p:                               8
+n:                               2
+r:       1001110011100100111011111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111110000000111111111
+m:                1011011000000000
+x:       1100011110001000011101101
+y:       1000000011010000001011011
+p:                              15
+n:                               7
+r:       1100011111011011011101101
+
+
+
+m:11111111111110000000000000001111
+m:             1100111101011110000
+x:       1000000010000111101001001
+y:         11011111110011110101111
+p:                              18
+n:                              15
+r:       1000001100111101011111001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111100000011
+m:                        10101100
+x:        100000101110000110010000
+y:        111111110000100110101011
+p:                               7
+n:                               6
+r:        100000101110000110101100
+
+
+
+m:11111110000000000000011111111111
+m:         10100001001000000000000
+x:        110001101100100001001000
+y:        111100001100101000010010
+p:                              24
+n:                              14
+r:         10100001001000001001000
+
+
+
+m:11111111100001111111111111111111
+m:          1000000000000000000000
+x:        100010000100101110010100
+y:       1000111010010010000010100
+p:                              22
+n:                               4
+r:        101000000100101110010100
+
+
+
+m:11100011111111111111111111111111
+m:   11000000000000000000000000000
+x:        110100001101100101100001
+y:       1101000010100110010101110
+p:                              28
+n:                               3
+r:   11000110100001101100101100001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:  111111111111111111111111111111
+m:                               0
+x:       1100001111010001000100110
+y:         10100001111101111110000
+p:                              31
+n:                               2
+r:       1100001111010001000100110
+
+
+
+m:11111111111100000000000000000011
+m:             1101010011101000100
+x:       1110110100101110001111110
+y:        100011011010100111010001
+p:                              19
+n:                              18
+r:       1110101101010011101000110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11100000000000000001111111111111
+m:   11101001000001100000000000000
+x:          1100101100110110101010
+y:       1000011101110100100000110
+p:                              28
+n:                              16
+r:   11101001000001100110110101010
+
+
+
+m:11111110000000000001111111111111
+m:        101100000110000000000000
+x:       1011110100100111111000111
+y:        101101100001010110000011
+p:                              24
+n:                              12
+r:        101100000110111111000111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111110011111111111111
+m:                1000000000000000
+x:       1000111011010100110100100
+y:       1011010001000101111110110
+p:                              15
+n:                               2
+r:       1000111011010100110100100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111110000111111111
+m:                   1100000000000
+x:      11110010100001001010010011
+y:      11011000011001010100111100
+p:                              12
+n:                               4
+r:      11110010100001100010010011
+
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:       1101110011010001010001000
+y:         11110101101011010011101
+p:                              28
+n:                               0
+r:       1101110011010001010001000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111100001111111111111111111
+m:         10000000000000000000000
+x:        101100110001101010111011
+y:      11110101010110001000011000
+p:                              22
+n:                               4
+r:        110000110001101010111011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111100111111111111111111111
+m:          1000000000000000000000
+x:       1111101000101011011011110
+y:          1101010101111010111101
+p:                              22
+n:                               2
+r:       1101101000101011011011110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:           101111001000100011011
+y:      10011111100001100010110010
+p:                              13
+n:                               0
+r:           101111001000100011011
+
+
+
+m:11111111111100000000000000011111
+m:            11101000101010100000
+x:      10100110101111101001011110
+y:      11000100001111010001010101
+p:                              19
+n:                              15
+r:      10100111101000101010111110
+
+
+
+m:11111111111111111111100011111111
+m:                     10100000000
+x:        101111101100000101011011
+y:       1001111001000111000111101
+p:                              10
+n:                               3
+r:        101111101100010101011011
+
+
+
+m:11111111111111111110000000000011
+m:                   1101110111000
+x:        101000101100100011000111
+y:      11111001000101011011101110
+p:                              12
+n:                              11
+r:        101000101101101110111011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111000000011111111111111
+m:            10110100000000000000
+x:       1110110100101001010010000
+y:      11010101100001100010101101
+p:                              20
+n:                               7
+r:       1110010110101001010010000
+
+
+
+m:11111110000000000000001111111111
+m:          1001111110110000000000
+x:       1011010110011101001010001
+y:      10110100100000100111111011
+p:                              24
+n:                              15
+r:          1001111110111001010001
+
+
+
+m:11111100000011111111111111111111
+m:      11100100000000000000000000
+x:        100110111100111101111011
+y:        111110010001111000111001
+p:                              25
+n:                               6
+r:      11100110111100111101111011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111100111111111111111111111
+m:         11000000000000000000000
+x:         10010111010110101101111
+y:        111001110010110110110011
+p:                              22
+n:                               2
+r:         11010111010110101101111
+
+
+
+m:11110000000011111111111111111111
+m:    1011110000000000000000000000
+x:       1000101011110011111111100
+y:        110011100011000110111100
+p:                              27
+n:                               8
+r:    1011110001011110011111111100
+
+
+
+m:11111111111111100000000000000001
+m:               10011010000100000
+x:      10100000110101000110000100
+y:      11001110001001101000010000
+p:                              16
+n:                              16
+r:      10100000110011010000100000
+
+
+
+m:11111111111111111111111111110000
+m:                             111
+x:      11101011101101111111110111
+y:       1110110101001110100100111
+p:                               3
+n:                               4
+r:      11101011101101111111110111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111000011111111111111111111
+m:        111100000000000000000000
+x:       1111000101101000100000000
+y:       1100001000011101010101111
+p:                              23
+n:                               4
+r:       1111100101101000100000000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111000000000111111111111111
+m:           110100000000000000000
+x:        111000010110100011101100
+y:         10011000100110000110100
+p:                              23
+n:                               9
+r:           110100110100011101100
+
+
+
+m:11111111111110000000111111111111
+m:              110101000000000000
+x:      10101010010100110100101010
+y:      10011101001110000010110101
+p:                              18
+n:                               7
+r:      10101010110101110100101010
+
+
+
+m:11000111111111111111111111111111
+m:    1000000000000000000000000000
+x:      10110001010110101101101010
+y:      10100111100011111001110001
+p:                              29
+n:                               3
+r:    1010110001010110101101101010
+
+
+
+m:10000000000000000000000000000011
+m:       1001100111110011111101100
+x:        111111011011001101110000
+y:         10011001111100111111011
+p:                              30
+n:                              29
+r:       1001100111110011111101100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:10000000000000000000111111111111
+m: 1100111000100001001000000000000
+x:            10001101000011000001
+y:       1001011100111000100001001
+p:                              30
+n:                              19
+r: 1100111000100001001000011000001
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11000000000000000000111111111111
+m:  101011100111101110000000000000
+x:     111110110011001110111111011
+y:     100101101101011100111101110
+p:                              29
+n:                              18
+r:  101011100111101110110111111011
+
+
+
+m:              111111111111111111
+m: 1000011001001000000000000000000
+x:       1101110001110100011011100
+y:       1011110010001000011001001
+p:                              31
+n:                              14
+r: 1000011001001001110100011011100
+
+
+
+m:11111111110011111111111111111111
+m:          1000000000000000000000
+x:        111010000110010101001101
+y:       1010110100111001011110010
+p:                              21
+n:                               2
+r:        111010000110010101001101
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111110000000000000
+m:                   1010110010010
+x:     110111100011010001101001111
+y:      10111110110001010110010010
+p:                              12
+n:                              13
+r:     110111100011011010110010010
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111110000000000000001
+m:                1101010001011000
+x:     101101101110010111110111100
+y:     101011011110110101000101100
+p:                              15
+n:                              15
+r:     101101101111101010001011000
+
+
+
+m:                1111111111111111
+m: 1100111011001010000000000000000
+x:     101111001001000100111110011
+y:       1101100110110011101100101
+p:                              31
+n:                              16
+r: 1100111011001011000100111110011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11110000000000000000000000001111
+m:    1101010111001110100001000000
+x:     100010010001001110110010010
+y:     111110101011100111010000100
+p:                              27
+n:                              24
+r:    1101010111001110100001000010
+
+
+
+m:11111111111111110000000001111111
+m:                  11001010000000
+x:      11110000010010001000110011
+y:     110111111111010001001100101
+p:                              15
+n:                               9
+r:      11110000010011001010110011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:       1111111111111111111111111
+m:  101000000000000000000000000000
+x:     111011000000010011011111011
+y:       1000011101111000100010100
+p:                              31
+n:                               7
+r:  101001011000000010011011111011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111110000000000000111111111111
+m:        100111100011000000000000
+x:           100011110011110010101
+y:      11010000011000100111100011
+p:                              24
+n:                              13
+r:        100111100011011110010101
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111110000000000011111111111111
+m:        111111010100000000000000
+x:       1011111101101101110011101
+y:        110100110011101111110101
+p:                              24
+n:                              11
+r:        111111010101101110011101
+
+
+
+m:11000000000111111111111111111111
+m:   10110101000000000000000000000
+x:     100101000001110001101101000
+y:        110110001001011010110101
+p:                              29
+n:                               9
+r:   10110101000001110001101101000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11110000111111111111111111111111
+m:      11000000000000000000000000
+x:     100000011110001001010111111
+y:     100111100001010000100100011
+p:                              27
+n:                               4
+r:      11000011110001001010111111
+
+
+
+m:11111111111111011111111111111111
+m:              100000000000000000
+x:      10000011010010010101100010
+y:     101000011100000010111001011
+p:                              17
+n:                               1
+r:      10000011110010010101100010
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11000000000000000000000001111111
+m:  111111011000100101010010000000
+x:     100111100000100001010000110
+y:    1000111111101100010010101001
+p:                              29
+n:                              23
+r:  111111011000100101010010000110
+
+
+
+m:11111111111111111111000011111111
+m:                      1100000000
+x:      11001010110101100000101010
+y:    1000000100001101111011110011
+p:                              11
+n:                               4
+r:      11001010110101001100101010
+
+
+
+m:11111000000000000000000011111111
+m:      11100001011101111100000000
+x:    1010110000101010010110011010
+y:    1100111110111000010111011111
+p:                              26
+n:                              19
+r:    1011100001011101111110011010
+
+
+
+m:11111111111000000000000000000111
+m:           110001011011000001000
+x:    1010011011010010100001111001
+y:      11000001110001011011000001
+p:                              20
+n:                              18
+r:    1010011110001011011000001001
+
+
+
+m:11100000000000000000000000000001
+m:   10010000010000011100100000010
+x:       1101101110010011000110010
+y:    1001000001000001110010000001
+p:                              28
+n:                              28
+r:   10010000010000011100100000010
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11110000000000000000000011111111
+m:      10000110011000010100000000
+x:     100010000100100100100111011
+y:    1000001000100001100110000101
+p:                              27
+n:                              20
+r:      10000110011000010100111011
+
+
+
+m:11100000000000000000000111111111
+m:   11001011000100110110000000000
+x:    1001001100001101100011011010
+y:    1111000111001011000100110110
+p:                              28
+n:                              20
+r:   11001011000100110110011011010
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11000000000000111111111111111111
+m:  101100001000000000000000000000
+x:    1011101101100101100000111010
+y:    1000110110001100101100001000
+p:                              29
+n:                              12
+r:  101100001000100101100000111010
+
+
+
+m:11111111111111110000000000000000
+m:                1000101101101000
+x:     111011100111111000000110010
+y:    1100011000111000101101101000
+p:                              15
+n:                              16
+r:     111011100111000101101101000
+
+
+
+m:11111111111110000000000000000001
+m:             1011011001100101100
+x:     101000110110001000000011011
+y:    1011010000101101100110010110
+p:                              18
+n:                              18
+r:     101000111011011001100101101
+
+
+
+m:11000000011111111111111111111111
+m:   11001100000000000000000000000
+x:      11011111000110110001111000
+y:    1010101011100010100110110011
+p:                              29
+n:                               7
+r:   11001111111000110110001111000
+
+
+
+m:11100000000000000000000000111111
+m:        111011010100000000000000
+x:     100100000101110010000111100
+y:     111000000111011010100000000
+p:                              28
+n:                              23
+r:        111011010100000000111100
+
+
+
+m:11000000111111111111111111111111
+m:    1100000000000000000000000000
+x:    1010000001001100011111101011
+y:    1011011110101010111111001100
+p:                              29
+n:                               6
+r:    1100000001001100011111101011
+
+
+
+m:11111111100000000000000001111111
+m:          1011011111010100000000
+x:    1101010000101011100100000111
+y:    1001011001110101101111101010
+p:                              22
+n:                              16
+r:    1101001011011111010100000111
+
+
+
+m:11111111000000111111111111111111
+m:           101000000000000000000
+x:      10111010010000100001111011
+y:      11110101111101011010000101
+p:                              23
+n:                               6
+r:      10000101010000100001111011
+
+
+
+m:11111111111110000000001111111111
+m:              110010000000000000
+x:      11110001010000100101011110
+y:     101011111000011110011001000
+p:                              18
+n:                               9
+r:      11110000110010000101011110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111111100
+m:                              11
+x:    1001000011010001111101000101
+y:    1100111100101001101111111011
+p:                               1
+n:                               2
+r:    1001000011010001111101000111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11110000000001111111111111111111
+m:    1110000010000000000000000000
+x:    1110111111010011101110011100
+y:     111001111000100111111000001
+p:                              27
+n:                               9
+r:    1110000011010011101110011100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111000000000000000000000011
+m:          1111001010101010100100
+x:    1010010000000100100111111100
+y:     111010011110010101010101001
+p:                              23
+n:                              22
+r:    1010001111001010101010100100
+
+
+
+m:11111111111111111110000000000111
+m:                   1000000010000
+x:     100001000010010000100111111
+y:    1100111111000101111000000010
+p:                              12
+n:                              10
+r:     100001000010011000000010111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:             1111111111111111111
+m:  100000000000000000000000000000
+x:   10011010001000011110010010111
+y:    1000011110111010010000000000
+p:                              31
+n:                              13
+r:  100000000001000011110010010111
+
+
+
+m:11111111111111111100000000000001
+m:                    101001111110
+x:     110101100100110010110100011
+y:   11000101001010000010100111111
+p:                              13
+n:                              13
+r:     110101100100100101001111111
+
+
+
+m:11111111111111111111111011111111
+m:                       100000000
+x:      10110010110001100011001100
+y:     101111111000001111011100001
+p:                               8
+n:                               1
+r:      10110010110001100111001100
+
+
+
+m:11111111000000000011111111111111
+m:        100110100100000000000000
+x:     110000100111100001110001000
+y:     101011010111000101001101001
+p:                              23
+n:                              10
+r:     110100110100100001110001000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11100000000000000000000000000001
+m:   11000001111010010010001000110
+x:    1101100101101111100001110011
+y:    1100000111101001001000100011
+p:                              28
+n:                              28
+r:   11000001111010010010001000111
+
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:       1010010111110100001001111
+y:   11111100100011011101110100100
+p:                              25
+n:                               0
+r:       1010010111110100001001111
+
+
+
+m:11111111111111111111111111110111
+m:                            1000
+x:      10111011011111011111110010
+y:       1000111101110001011101001
+p:                               3
+n:                               1
+r:      10111011011111011111111010
+
+
+
+m:11111111000000000000000000000001
+m:        100100011110101100011100
+x:   11111100100100011110100010001
+y:   10010110010001111010110001110
+p:                              23
+n:                              23
+r:   11111100100011110101100011101
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:10011111111111111111111111111111
+m:                               0
+x:   10001111011010010010110100000
+y:     111001010111000110010011100
+p:                              30
+n:                               2
+r:   10001111011010010010110100000
+
+
+
+m:11111111111111000000000111111111
+m:              111001010000000000
+x:      10101000011010010001111110
+y:    1010110001111011011111001010
+p:                              17
+n:                               9
+r:      10101000111001010001111110
+
+
+
+m:10000000000000000000000000011111
+m:     100100011011111100101100000
+x:    1011101100111001110110110011
+y:   10100001001000110111111001011
+p:                              30
+n:                              26
+r:     100100011011111100101110011
+
+
+
+m:11111111111111111110000000111111
+m:                   1000001000000
+x:   10010110010001101100010011000
+y:   11101010111011100010011000001
+p:                              12
+n:                               7
+r:   10010110010001101000001011000
+
+
+
+m:11111111111111111000011111111111
+m:                 110100000000000
+x:   11110100011100010100101100011
+y:     100000101100100110010001101
+p:                              14
+n:                               4
+r:   11110100011100110100101100011
+
+
+
+m:11111111111111111111111000000111
+m:                       111110000
+x:   10011010100000101001001110010
+y:   11011001111100011111101111110
+p:                               8
+n:                               6
+r:   10011010100000101001111110010
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:                  11111111111111
+m:10100111001100000000000000000000
+x:    1101010010011100001001110001
+y:       1000111101001110011000000
+p:                              31
+n:                              18
+r:10100111001100000000001001110001
+
+
+
+m:11111111110000000000000111111111
+m:           101100000100000000000
+x:    1110111011101101111110001100
+y:       1100111011100101100000100
+p:                              21
+n:                              13
+r:    1110110101100000100110001100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111000000000000011111111111
+m:        111011100000100000000000
+x:    1001000000001000001001010110
+y:   10100001011010111110111000001
+p:                              23
+n:                              13
+r:    1001111011100000101001010110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:    1111111111111111111111111111
+m:10010000000000000000000000000000
+x:   11110110111101001011001111011
+y:       1010011111111011010011001
+p:                              31
+n:                               4
+r:10011110110111101001011001111011
+
+
+
+m:11111111111111111110000000000011
+m:                   1011011100000
+x:   11011011110011001011111001000
+y:   11100111100000011110110111000
+p:                              12
+n:                              11
+r:   11011011110011001011011100000
+
+
+
+m:11111111100000000000000111111111
+m:         10101101011100000000000
+x:  110011001111010101000101111110
+y:    1000000011110010101101011100
+p:                              22
+n:                              14
+r:  110011010101101011100101111110
+
+
+
+m:11111100000000000000111111111111
+m:       1100111100100000000000000
+x:  110111100111111111001100110011
+y:  101101111010110101100111100100
+p:                              25
+n:                              14
+r:  110101100111100100001100110011
+
+
+
+m:10000000000000011111111111111111
+m: 1011110010001100000000000000000
+x:  110011010001111001111010000101
+y:      11111010101010111100100011
+p:                              30
+n:                              14
+r: 1011110010001111001111010000101
+
+
+
+m:11111111110000000000000011111111
+m:              100010010100000000
+x:    1011011110001101110010000110
+y:    1010100001110100001000100101
+p:                              21
+n:                              14
+r:    1011010000100010010110000110
+
+
+
+m:11111111111111111111100000000111
+m:                      1110011000
+x:  101010000000011111010100110100
+y:   11010100000011000011001110011
+p:                              10
+n:                               8
+r:  101010000000011111001110011100
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11100000000000000000000001111111
+m:    1110001001100101111000000000
+x:  111111100001011010011111100000
+y:   10000000111000100110010111100
+p:                              28
+n:                              22
+r:  101110001001100101111001100000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111100111111111111111
+m:                1000000000000000
+x:  100010101111011010000101111111
+y:   11010001001011110001011110101
+p:                              16
+n:                               2
+r:  100010101111001010000101111111
+
+
+
+m:                           11111
+m:  110001100000110010001010000000
+x:  111001001111000010001011111000
+y:  101001100011000001100100010100
+p:                              31
+n:                              27
+r:  110001100000110010001010011000
+
+
+
+m:11111111111111111100000000001111
+m:                     10011100000
+x:     111111011110000110101001101
+y:  110010001001010010010001001110
+p:                              13
+n:                              10
+r:     111111011110000010011101101
+
+
+
+m:11111111111111111110011111111111
+m:                    100000000000
+x:  100101000111000011000100011110
+y:  100010010011011101100100011001
+p:                              12
+n:                               2
+r:  100101000111000010100100011110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111000000011111111111
+m:              110010100000000000
+x:     101100111011101100010100100
+y:  100110101001011111001011100101
+p:                              17
+n:                               7
+r:     101100111110010100010100100
+
+
+
+m:11111000000000000000000000000011
+m:       1100101101011011010000100
+x:  110100110111011111000001100011
+y:  110100011001011010110110100001
+p:                              26
+n:                              25
+r:  110001100101101011011010000111
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111000111
+m:                            1000
+x:    1100100011010010000111101110
+y:  111101100000011010001110100001
+p:                               5
+n:                               3
+r:    1100100011010010000111001110
+
+
+
+m:11111111111111111111100000000011
+m:                     11001000000
+x:  111101101001011110001011110111
+y:      11111100100101111110010000
+p:                              10
+n:                               9
+r:  111101101001011110011001000011
+
+
+
+m:11111111111111111111111111111111
+m:                               0
+x:   11000110011101010101111101010
+y:  110001110110001011001110011110
+p:                              29
+n:                               0
+r:   11000110011101010101111101010
+
+
+
+m:11111110000000000000000000000011
+m:           111010010000110101100
+x:       1001011001011101010011001
+y:    1111000001110100100001101011
+p:                              24
+n:                              23
+r:           111010010000110101101
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111110000000111111111
+m:                1001001000000000
+x:     111000001000011100110010001
+y:  111010110000011101100001001001
+p:                              15
+n:                               7
+r:     111000001001001001110010001
+
+
+
+m:11111111000011111111111111111111
+m:         11100000000000000000000
+x:  111001111000100001000001000100
+y:    1100100010110010101110010111
+p:                              23
+n:                               4
+r:  111001011100100001000001000100
+
+
+
+m:11111111111000000000000000000011
+m:                1111000101001100
+x:      10110010111100010111010110
+y:   11011101010000011110001010011
+p:                              20
+n:                              19
+r:      10110000001111000101001110
+
+
+
+m:11111111111111110001111111111111
+m:                 110000000000000
+x:  100011110111100010011000110010
+y:   10110001100111010001000000011
+p:                              15
+n:                               3
+r:  100011110111100110011000110010
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111111001
+m:                               0
+x:      10001100110000100111100101
+y: 1000010101010111110110101100000
+p:                               2
+n:                               2
+r:      10001100110000100111100001
+
+
+
+m:11111111001111111111111111111111
+m:        100000000000000000000000
+x: 1111100001100000011000010111110
+y: 1000000100101001111010011010110
+p:                              23
+n:                               2
+r: 1111100101100000011000010111110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:          1111111111111111111111
+m:11011110010000000000000000000000
+x:  110010100100110101111000110111
+y: 1110001010010011111011101111001
+p:                              31
+n:                              10
+r:11011110010100110101111000110111
+
+
+
+m:11111111111100000000000001111111
+m:            10111001010010000000
+x:      11110010111001100100010101
+y: 1100001101110010101011100101001
+p:                              19
+n:                              13
+r:      11110010111001010010010101
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111111111111111111111111111
+m:                               0
+x: 1110111011110110100001010100001
+y:  100000011001110011100100011101
+p:                              18
+n:                               0
+r: 1110111011110110100001010100001
+
+
+
+m:11111111111111100011111111111111
+m:               10100000000000000
+x:  111000111110111000110101111110
+y:   10100001110000111100000000101
+p:                              16
+n:                               3
+r:  111000111110110100110101111110
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111110000000000000011111111
+m:          1010010000001100000000
+x:  100011000011110111100101011110
+y: 1001000100111001110100100000011
+p:                              21
+n:                              14
+r:  100011001010010000001101011110
+
+
+
+m:11111111111111110111111111111111
+m:                               0
+x: 1110000110110110111011010010001
+y:     100100000101011011111111110
+p:                              15
+n:                               1
+r: 1110000110110110111011010010001
+
+
+
+m:11111110000000000000000001111111
+m:        101010000011011000000000
+x: 1111111001110111010100101110101
+y:   10100011100010101000001101100
+p:                              24
+n:                              18
+r: 1111110101010000011011001110101
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111110111111111111111111111
+m:          1000000000000000000000
+x:    1011100100101001101000010100
+y: 1110011101101011000111011011111
+p:                              21
+n:                               1
+r:    1011101100101001101000010100
+
+
+
+m:11111111111101111111111111111111
+m:            10000000000000000000
+x:  111010010011010111100111110000
+y:        111101010101001010001101
+p:                              19
+n:                               1
+r:  111010010011010111100111110000
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11111111100111111111111111111111
+m:          1000000000000000000000
+x:  110111011010110000011010111110
+y:  110110101100110111001010000101
+p:                              22
+n:                               2
+r:  110111001010110000011010111110
+
+
+
+m:11111111111101111111111111111111
+m:                               0
+x:    1101001111100010110010100011
+y:    1010101000111110100000101110
+p:                              19
+n:                               1
+r:    1101001101100010110010100011
+
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+Process aborted with SIGABRT (signal 6), continuing to the next line...
+
+
+m:11000000000000001111111111111111
+m:   10000101101100000000000000000
+x:  110111110001110011000100001010
+y:  100110101000110001000010110110
+p:                              29
+n:                              14
+r:   10000101101100011000100001010
+
+
+
+m:11111111000000011111111111111111
+m:        101111100000000000000000
+x: 1000111001101001001001111110100
+y: 1101111101010101010111001011111
+p:                              23
+n:                               7
+r: 1000111101111101001001111110100
+
+
+
+m:11111000011111111111111111111111
+m:                               0
+x:  100110110111001100010111110001
+y:   10010110011000111110111010000
+p:                              26
+n:                               4
+r:  100000010111001100010111110001
+
