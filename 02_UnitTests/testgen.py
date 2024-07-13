@@ -9,5 +9,5 @@ if __name__=="__main__":
     for i in range(1, 32):
         for _ in range(1000//32):
             with open(f"{filename}.txt", "a") as f:
-                f.write(f"{rn(2**i)} {rn(32)}\n")
+                f.write(f"{rn(2**i)}\n")
             
